@@ -1,2 +1,5 @@
 # Implementation of data structure in java
-记录学些过程
+
+#### 数据结构
+- 数组 
+  
